@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">TugasPakDimas</string>
     <string name="txthello"> Hallo World </string>
-    <string name="textButton"> Spin Disini </string>
+<!--    <string name="textButton"> Spin Disini </string>-->
     <string name="dadu_1">Dadu 1</string>
+    <string name="klik_disini">Klik Disini</string>
+    <string name="todo">TODO</string>
 </resources>
