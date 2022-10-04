@@ -5,4 +5,7 @@
     <string name="dadu_1">Dadu 1</string>
     <string name="klik_disini">Klik Disini</string>
     <string name="todo">TODO</string>
+
+    <string name="pindahbutton">Pindah ke Halaman Selanjutnya</string>
+    <string name="api_key">643ff3dfcfb50dee98da7c768a07386e</string>
 </resources>
